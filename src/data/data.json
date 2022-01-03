@@ -1,0 +1,191 @@
+{
+  "Header": {
+    "title": "Moon Rabbit : The Beginning",
+    "paragraph": "원래 달에서 태어났으나 지국에 정착한 달토끼들. 그들은 과연 고향인 달로 다시 돌아갈 수 있을 까요?"
+  },
+  "Story": {
+    "paragraph": "옛날 옛적에 달나라에 토끼가~~",
+    "Story1": [
+      "달에 돌아가기 위해 열심히 떡방아를 찧어서 언젠가는 Moon Ticket을 Get!",
+      "Incididunt ut labore"
+    ],
+    "Story2": [
+      "Moon Rocket을 발사대에 셋팅하고 10마리의 토끼를 모아 매일 일정량의 팝콘을 튀겨 추진 연료를 채우면 달로 갈 수 있음",
+      "Lorem ipsum dolor"
+    ],
+    "Story3": [
+      "언젠가는 달에 모여 달나라 동물들과 환희의 파티를 고대하고 있음",
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Roadmap": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Service Launching",
+      "text": "PFP MINT",
+      "text2": "PFP Holder airdrop"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "DAO Project",
+      "text": "IP 협업 본격 진행",
+      "text2": "협업 콘텐츠 홀더들에게 제공"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Community Reward",
+      "text": "커뮤니티 활동 보상(token, item)",
+      "text2": "Staking 시스템 구축/제공",
+      "text3": "타임스퀘어/코엑스 전광판 광고"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "홀더 커뮤니티 특별 보상",
+      "text": "NFT Holder를 위한 공간 제공(연간 홀더 파티 진행 시 초대)",
+      "text2": "브랜드 협업 스페셜 NFT 드랍"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Season 2",
+      "text": "Project Season 2 런칭",
+      "text2": "holder 우선 지급 및 보상"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Moon Rabbit Global",
+      "text": "달토끼의 글로벌화"
+    }
+  ],
+  "Faqs": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jaden Yu",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Erin Park",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jay Jung",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jaime Jin",
+      "job": "Project Manager"
+    }
+  ],
+  "Minting": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
