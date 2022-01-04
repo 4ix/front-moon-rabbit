@@ -31,25 +31,25 @@ export const Navigation = (props) => {
               </a>
             </li> */}
             <li>
-              <a href='#story' className='page-scroll'>
+              <a href='#test' className='page-scroll'>
                 Story
+              </a>
+            </li>
+            <li>
+              <a href='#story' className='page-scroll'>
+                Rabbit NFT
               </a>
             </li>
             <li>
               <a href='#roadmap' className='page-scroll'>
                 Roadmap
               </a>
-            </li>
-            <li>
-              <a href='#portfolio' className='page-scroll'>
-                NFT Gallery
-              </a>
-            </li>
-            <li>
+            </li>            
+            {/* <li>
               <a href='#faqs' className='page-scroll'>
                 FAQ
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#team' className='page-scroll'>
                 Team

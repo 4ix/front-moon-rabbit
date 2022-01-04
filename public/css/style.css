@@ -286,6 +286,10 @@ header .intro-text {
   bottom: 0;
   left: 0;
 }
+#story h4 { 
+  position: relative;
+  color: #fff;
+}
 #story .story-text li {
   margin-bottom: 6px;
   margin-left: 6px;
@@ -301,13 +305,19 @@ header .intro-text {
   padding-right: 8px;
 }
 #story img {
-  width: 520px;
+  width: 420px;
+  height: 220px;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
 #story p {
+  line-height: 24px;
+  margin: 30px 0;
+}
+
+#story p2 {
   line-height: 24px;
   margin: 30px 0;
 }

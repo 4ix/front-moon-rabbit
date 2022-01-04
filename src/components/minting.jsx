@@ -18,8 +18,8 @@ export const Minting = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                    <a href={props.data ? props.data.twitter : '/'}>
+                      <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
@@ -28,8 +28,8 @@ export const Minting = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                    <a href={props.data ? props.data.medium : '/'}>
+                      <i className='fa fa-medium'></i>
                     </a>
                   </li>
                 </ul>
@@ -41,10 +41,7 @@ export const Minting = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Life of Fie. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
+            &copy; 2022 Copyright Moon Rabbit Team
           </p>
         </div>
       </div>

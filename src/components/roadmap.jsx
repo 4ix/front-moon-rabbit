@@ -19,6 +19,8 @@ export const Roadmap = (props) => {
                     <p>{d.text}</p>
                     <p>{d.text2}</p>
                     <p>{d.text3}</p>
+                    <p>{d.text4}</p>
+                    <p>{d.text5}</p>
                   </div>
                 </div>
               ))
