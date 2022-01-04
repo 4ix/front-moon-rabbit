@@ -4,7 +4,7 @@ import { Header } from "./components/header";
 // import { Features } from "./components/features";
 import { Story } from "./components/story";
 import { Roadmap } from "./components/roadmap";
-import { Gallery } from "./components/gallery";
+// import { Gallery } from "./components/gallery";
 import { Faqs } from "./components/faq";
 import { Team } from "./components/Team";
 import { Minting } from "./components/minting";
