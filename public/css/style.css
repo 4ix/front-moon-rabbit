@@ -104,7 +104,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: #FFD54E;
   content: "";
   transition: width 0.2s;
 }
@@ -125,7 +125,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+  background: #FFD54E !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -166,8 +166,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #FFD54E;
+  background-image: linear-gradient(to right, #ffdd6c 0%, #ffc400 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #FFD54E;
 }
 .btn:active,
 .btn.active {
@@ -263,20 +263,24 @@ header .intro-text {
 /* Story Section */
 #story {
   padding: 100px 0;
+  background: #000000;
+  color: #FFD54E;
 }
 #story h3 {
   font-size: 22px;
   margin: 0 0 20px;
+  color: #fff;
 }
-#story h2 {
+#story h2 { 
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 15px;
+  color: #fff;
 }
 #story h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: #FFD54E;
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -310,8 +314,8 @@ header .intro-text {
 /* Roadmap Section */
 #roadmap {
   padding: 100px 0;
-  background: linear-gradient(to right, #000000 0%, #747474 100%);
-  color: #fff;
+  background: #000000;
+  color: #FFD54E;
 }
 #roadmap .service-desc {
   margin: 10px 10px 20px;
@@ -402,12 +406,16 @@ header .intro-text {
 /* Faqs Section */
 #faqs {
   padding: 100px 0;
-  background: #f6f6f6;
+  background: #000000;
 }
 #faqs i {
   color: #e6e6e6;
   font-size: 32px;
   margin-bottom: 20px;
+}
+
+#faqs h2 {
+  color: #fff;
 }
 .faq {
   position: relative;
@@ -439,6 +447,34 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+
+.accordion {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.accordion-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  cursor: pointer;
+  background-color: #ffffff;
+}
+
+.accordion-title:hover {
+  background-color: #FFD54E;
+}
+
+.accordion-title,
+.accordion-content {
+  padding: 1rem;
+}
+
+.accordion-content {
+  background-color: #000000;
+  color: FFD54E;
+}
+
 /* Team Section */
 #team {
   padding: 100px 0;
@@ -604,3 +640,4 @@ label {
     margin: 50px 0;
   }
 }
+
